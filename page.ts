@@ -14,6 +14,7 @@ class SomeClass {
 
     @step
     async gotoSomePage(url: string) {
+        @step
         await this.p.goto(url);
     }
 }
