@@ -1,0 +1,25 @@
+{
+  "name": "decorator-crashes-ts-language-service",
+  "version": "1.0.0",
+  "description": "init",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devilofhell/decorator-crashes-ts-language-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devilofhell/decorator-crashes-ts-language-service/issues"
+  },
+  "homepage": "https://github.com/devilofhell/decorator-crashes-ts-language-service#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.1"
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
